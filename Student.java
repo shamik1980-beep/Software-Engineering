@@ -1,5 +1,8 @@
 package com.uosrak.mvc.model;
 
+
+// This is the model for storing student data
+
 public class Student {
     private final int id;
     private String name;
